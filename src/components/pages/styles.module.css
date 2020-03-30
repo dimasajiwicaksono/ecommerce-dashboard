@@ -1,0 +1,24 @@
+.Sider {
+    /* background-color: aqua; */
+    height: 100vh
+}
+.Header {
+    /* background-color: red; */
+    position: fixed;
+    z-index: 1;
+    width: 100%;
+}
+
+.MainContent {
+    margin: 10vh 2em 2em 2em;
+}
+
+.contentTop, .contentBottom, .contentCenter {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    /* border: solid black; */
+}
+
+.cardContentCenter {
+    padding-top: 0px;
+}
